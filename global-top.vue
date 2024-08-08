@@ -1,0 +1,3 @@
+<template>
+    <slideInfoLine />
+</template>

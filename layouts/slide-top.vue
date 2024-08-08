@@ -1,0 +1,4 @@
+<template>
+	<!-- <talkTopBar /> -->
+	<!-- <InfoLine /> -->
+</template>
